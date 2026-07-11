@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(226, 210, 255);
     height: 1000px;
 }
 
@@ -52,6 +52,13 @@ a{
     text-align: center;
     margin: auto;
     font-family: Arial, sans-serif;
+}
+
+#abouttext {
+    text-align: center;
+    margin: auto;
+    font-family: Arial, sans-serif;
+    text-decoration: underline;
 }
 
 .panel {
